@@ -1,0 +1,22 @@
+{
+  "name": "openai-websocket-relay",
+  "version": "1.0.0",
+  "description": "npm init -y\r npm install express axios dotenv https",
+  "main": "apikey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "elliptic": "^6.6.1",
+    "express": "^4.21.1",
+    "https": "^1.0.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
